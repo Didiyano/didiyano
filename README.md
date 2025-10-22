@@ -36,10 +36,17 @@ I love understanding how things work, whether it’s a system, a story, or a puz
 
 ---
 
+> “Build systems that simplify life — not complicate it.” 🌼
+
+---
+
 ### 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=didiyano&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didiyano&layout=compact&theme=calm)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=didiyano&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didiyano&layout=compact&theme=transparent" height="160" />
+</p>
 
 
-> “Build systems that simplify life — not complicate it.” 🌼
+
+
