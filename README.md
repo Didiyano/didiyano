@@ -32,7 +32,6 @@ I love understanding how things work, whether it’s a system, a story, or a puz
 ### 📫 Connect with Me  
 
 📧 [deannamahmood@gmail.com](mailto:deannamahmood@gmail.com)  
-🔗 [LinkedIn – Wan Nurul Diana Wan Mahmood](https://www.linkedin.com/in/wannuruldianawanmahmood)  
 💡 [Portfolio coming soon ✨]  
 
 ---
